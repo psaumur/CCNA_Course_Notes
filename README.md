@@ -28,3 +28,8 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 11. [Routing Fundamentals - Part 1](https://github.com/psaumur/CCNA/blob/main/Routing_Fundamentals_Part1.md)
 12. [Static Routing - Part 2](https://github.com/psaumur/CCNA/blob/main/Static_Routing_Part2.md)
 13. [Life of a Packet](https://github.com/psaumur/CCNA/blob/main/Life_of_a_Packet.md)
+14. [Subnetting - Part 1](https://github.com/psaumur/CCNA/blob/main/Subnetting_Part1.md)
+15. [Subnetting - Part 2](https://github.com/psaumur/CCNA/blob/main/Subnetting_Part2.md)
+16. [Subnetting (VLSM) - Part 3](https://github.com/psaumur/CCNA/blob/main/Subnetting_VLSM_Part3.md)
+
+
