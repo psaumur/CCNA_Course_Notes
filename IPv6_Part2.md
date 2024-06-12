@@ -66,7 +66,7 @@ IPv6 ADDRESS TYPES
 
 Remember THESE THREE PARTS of a GLOBAL UNICAST ADDRESS
 
-(image)
+
 
 ---
 
