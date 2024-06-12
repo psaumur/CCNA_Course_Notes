@@ -1,4 +1,4 @@
-# CCNA 200-301 Complete Course Notes
+![image](https://github.com/psaumur/CCNA/assets/106411237/9b8d77df-0095-4fcf-b39d-ed1cea0d2c66)# CCNA 200-301 Complete Course Notes
 
 This is my repository of my personal notes taken during Jeremy's IT Lab Complete CCNA 200-300 course.
 Each "Day" is broken down into individual chapters.
@@ -25,3 +25,4 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 8. [IPv4 Addressing - Part 2](https://github.com/psaumur/CCNA/blob/main/IPv4_Addressing_Part2.md)
 9. [Switch Interfaces](https://github.com/psaumur/CCNA/blob/main/Switch_Interfaces.md)
 10. [The IPv4 Header](https://github.com/psaumur/CCNA/blob/main/The_IPv4_Header.md)
+11. [Routing Fundamentals](https://github.com/psaumur/CCNA/blob/main/Routing_Fundamentals_Part1.md)
