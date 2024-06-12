@@ -1,5 +1,3 @@
-![image](https://github.com/psaumur/CCNA/assets/106411237/9b8d77df-0095-4fcf-b39d-ed1cea0d2c66)# CCNA 200-301 Complete Course Notes
-
 This is my repository of my personal notes taken during Jeremy's IT Lab Complete CCNA 200-300 course.
 Each "Day" is broken down into individual chapters.
 
