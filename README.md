@@ -31,5 +31,15 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 14. [Subnetting - Part 1](https://github.com/psaumur/CCNA/blob/main/Subnetting_Part1.md)
 15. [Subnetting - Part 2](https://github.com/psaumur/CCNA/blob/main/Subnetting_Part2.md)
 16. [Subnetting (VLSM) - Part 3](https://github.com/psaumur/CCNA/blob/main/Subnetting_VLSM_Part3.md)
+17. [VLANS - Part 1](https://github.com/psaumur/CCNA/blob/main/VLAN_Part1.md)
+18. [VLANS - Part 2](https://github.com/psaumur/CCNA/blob/main/VLAN_Part2.md)
+19. [VLANS - Part 3](https://github.com/psaumur/CCNA/blob/main/VLAN_Part3.md)
+20. [DTP / VTP](https://github.com/psaumur/CCNA/blob/main/DTP_VTP.md)
+21. [Spanning Tree Protocol - Part 1](https://github.com/psaumur/CCNA/blob/main/Spanning_Tree_Protocol_Part1.md)
+22. [Spanning Tree Protocol - Part 2](https://github.com/psaumur/CCNA/blob/main/Spanning_Tree_Protocol_Part2.md)
+23. [Rapid Spanning Tree Protocol](https://github.com/psaumur/CCNA/blob/main/Rapid_Spanning_Tree_Protocol.md)
+24. [Etherchannel](https://github.com/psaumur/CCNA/blob/main/Etherchannel.md)
+25. [Dynamic Routing](https://github.com/psaumur/CCNA/blob/main/DynamicRouting.md)
+26. [RIP / EIGRP](https://github.com/psaumur/CCNA/blob/main/RIP_and_EIGRP.md)
 
 
