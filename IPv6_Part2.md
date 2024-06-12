@@ -9,17 +9,19 @@ IPv6 ADDRESS CONFIGURATION (EUI-64)
 ![image](https://github.com/psaumur/CCNA/assets/106411237/bee8f7bf-3877-4307-9ca7-863af19aae6c)
 
 EUI-64 PRACTICE:
-
+```
 782B CBAC 0867 >>> 782B CB  ||  AC 0867
 
-782B CB FF  FEAC 0867 
+782B CBFF  FEAC 0867 
 
 8 is the 7th bit so 1000 inverted becomes 1010 = A in hex
 
 so the EUI-64 Interface Identifier is :  7A2B CBFF FEAC 0867
+```
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/d4e90146-8c71-4c6c-b5aa-a9077bde2caf)
 
+---
 CONFIGURING IPv6 ADDRESSES with EUI-64
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/e6c6da0b-def4-4764-a0a1-3f64855f319f)
@@ -56,17 +58,14 @@ IPv6 ADDRESS TYPES
 - Must REGISTER to use them.
 - They are PUBLIC ADDRESSES so need to be GLOBALLY UNIQUE
 
-<aside>
 💡 Originally defined as the 2000 :: /3 block
 (2000:: to 3FFF : FFFF : FFFF : FFFF : FFFF : FFFF : FFFF : FFFF)
-
-</aside>
 
 - NOW defined as ALL ADDRESSES which are not RESERVED for other purposes
 
 Remember THESE THREE PARTS of a GLOBAL UNICAST ADDRESS
 
-
+(Insert image here)
 
 ---
 
