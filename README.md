@@ -11,7 +11,13 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 
 [Jeremy's MEGA Lab](https://www.youtube.com/watch?v=2p7-MluKAgE&list=PLeKkafR2n05G-C6sd19ZMKq7et__aDR1S) encompasses everything you will learn in his CCNA course
 
-COURSE NOTE CHAPTERS:
+---
 
-1. [NETWORKING DEVICES](https://github.com/psaumur/CCNA/blob/main/network_devices.md)
-2. [INTERFACES AND CABLES](https://github.com/psaumur/CCNA/blob/main/interfaces_and_cables.md) 
+# Course Chapter Notes:
+
+1. [Networking Devices](https://github.com/psaumur/CCNA/blob/main/network_devices.md)
+2. [Interfaces And Cables](https://github.com/psaumur/CCNA/blob/main/interfaces_and_cables.md) 
+3. [OSI Model and TCP/IP Suite](https://github.com/psaumur/CCNA/blob/main/osi_model_tcpsuite.md)
+4. [Intro to the CLI](https://github.com/psaumur/CCNA/blob/main/intro_to_cli.md)
+5. [Ethernet LAN Switching - Part 1](https://github.com/psaumur/CCNA/blob/main/ethernet_lan_switching_part1.md)
+6. [Ethernet LAN Switching - Part 2](https://github.com/psaumur/CCNA/blob/main/ethernet_lan_switching_part2.md)
