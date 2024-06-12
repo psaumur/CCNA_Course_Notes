@@ -25,4 +25,6 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 8. [IPv4 Addressing - Part 2](https://github.com/psaumur/CCNA/blob/main/IPv4_Addressing_Part2.md)
 9. [Switch Interfaces](https://github.com/psaumur/CCNA/blob/main/Switch_Interfaces.md)
 10. [The IPv4 Header](https://github.com/psaumur/CCNA/blob/main/The_IPv4_Header.md)
-11. [Routing Fundamentals](https://github.com/psaumur/CCNA/blob/main/Routing_Fundamentals_Part1.md)
+11. [Routing Fundamentals - Part 1](https://github.com/psaumur/CCNA/blob/main/Routing_Fundamentals_Part1.md)
+12. [Routing Fundamentals - Part 2](https://github.com/psaumur/CCNA/blob/main/Routing_Fundamentals_Part2.md)
+13. 
