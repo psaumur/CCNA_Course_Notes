@@ -15,9 +15,13 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 
 # Course Chapter Notes:
 
-1. [Networking Devices](https://github.com/psaumur/CCNA/blob/main/network_devices.md)
-2. [Interfaces And Cables](https://github.com/psaumur/CCNA/blob/main/interfaces_and_cables.md) 
-3. [OSI Model and TCP/IP Suite](https://github.com/psaumur/CCNA/blob/main/osi_model_tcpsuite.md)
+1. [Networking Devices](https://github.com/psaumur/CCNA/blob/main/Network_Devices.md)
+2. [Interfaces And Cables](https://github.com/psaumur/CCNA/blob/main/Interfaces_and_Cables.md) 
+3. [OSI Model and TCP/IP Suite](https://github.com/psaumur/CCNA/blob/main/OSI_Model_TCPSuite.md)
 4. [Intro to the CLI](https://github.com/psaumur/CCNA/blob/main/intro_to_cli.md)
-5. [Ethernet LAN Switching - Part 1](https://github.com/psaumur/CCNA/blob/main/ethernet_lan_switching_part1.md)
-6. [Ethernet LAN Switching - Part 2](https://github.com/psaumur/CCNA/blob/main/ethernet_lan_switching_part2.md)
+5. [Ethernet LAN Switching - Part 1](https://github.com/psaumur/CCNA/blob/main/Ethernet_LAN_Switching_Part1.md)
+6. [Ethernet LAN Switching - Part 2](https://github.com/psaumur/CCNA/blob/main/Ethernet_LAN_Switching_Part2.md)
+7. [IPv4 Addressing - Part 1](https://github.com/psaumur/CCNA/blob/main/IPv4_Addressing_Part1.md)
+8. [IPv4 Addressing - Part 2](https://github.com/psaumur/CCNA/blob/main/IPv4_Addressing_Part2.md)
+9. [Switch Interfaces](https://github.com/psaumur/CCNA/blob/main/Switch_Interfaces.md)
+10. [The IPv4 Header](https://github.com/psaumur/CCNA/blob/main/The_IPv4_Header.md)
