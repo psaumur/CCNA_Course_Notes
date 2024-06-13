@@ -65,7 +65,7 @@ IPv6 ADDRESS TYPES
 
 Remember THESE THREE PARTS of a GLOBAL UNICAST ADDRESS
 
-(Insert image here)
+![image](https://github.com/psaumur/CCNA/assets/106411237/c5552f0e-eca2-4069-a656-611b5c196402)
 
 ---
 
@@ -87,7 +87,7 @@ Remember THESE THREE PARTS of a GLOBAL UNICAST ADDRESS
 
 (*) The GLOBAL ID should be UNIQUE so that ADDRESSES don’t overlap when companies MERGE
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/9c323304-8982-4457-b3b5-6d5fc8ddf6fa/Untitled.png)
+![image](https://github.com/psaumur/CCNA/assets/106411237/6e6f8af9-ee53-4e0d-90ec-9e137b10c851)
 
 ---
 
@@ -113,7 +113,7 @@ Remember THESE THREE PARTS of a GLOBAL UNICAST ADDRESS
     
     Network using Link-Local Addresses for “next-hop” routing
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/658998bd-bb51-4efa-93f6-a9b3e9119526/Untitled.png)
+![image](https://github.com/psaumur/CCNA/assets/106411237/7d74c4fb-ef52-4436-8285-77ab571f2964)
     
 
 ---
@@ -139,7 +139,7 @@ YOU MUST KNOW THE MULTICAST ADDRESS FOR EACH ROUTER TYPE
 
 NOTE that the IPv6 and IPv4 Addresses share the same last digit
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/78a72101-b0a7-413c-8995-de844080ed4d/Untitled.png)
+![image](https://github.com/psaumur/CCNA/assets/106411237/e5efcdd7-5d7d-4020-a179-07ba267bf5ab)
 
 MULTICAST ADDRESS SCOPES
 
@@ -165,7 +165,7 @@ MULTICAST ADDRESS SCOPES
     - No boundaries
     - Possible to be ROUTED over the INTERNET
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/f636f659-663d-4be0-96a5-80b86a44275d/Untitled.png)
+![image](https://github.com/psaumur/CCNA/assets/106411237/5d5f2d6e-3e21-4ab7-bf8e-dec5d12b6eed)
 
 5) ANYCAST ADDRESS
 
@@ -178,7 +178,7 @@ MULTICAST ADDRESS SCOPES
     - Use a regular UNICAST (Global Unicast, Unique Local) and specify THAT as an ANYCAST ADDRESS
     - `R1(config-if)# ipv6 address 2000:db8:1:1::99/128 anycast`
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/45512396-8e2e-4520-b642-2153b4d5831b/Untitled.png)
+![image](https://github.com/psaumur/CCNA/assets/106411237/71729af9-6c02-49bd-b290-af7f5009bd6e)
 
 6) OTHER IPv6 ADDRESSES
 
