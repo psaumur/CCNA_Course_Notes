@@ -85,27 +85,29 @@ SNMP MESSAGES
 
 2) SMNP WRITE
 
+![image](https://github.com/psaumur/CCNA/assets/106411237/d8679ff7-5103-4e01-8f2e-25bb1bd25734)
 
 
 3) SNMP NOTIFICATION
 
+![image](https://github.com/psaumur/CCNA/assets/106411237/fe9266fc-12b8-41d3-8d8f-95f3f7b52ef6)
 
 
 SNMP AGENT listens for MESSAGES on UDP Port 161
 
 SNMP MANAGER listens for MESSAGES on UDP Port 162
 
-![IMG_2985.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/4ad2ce42-c01f-4475-80e8-6272c508a043/IMG_2985.jpeg)
+![image](https://github.com/psaumur/CCNA/assets/106411237/23e6fd0a-ed1e-441b-b7b0-457a4e55f645)
 
 ---
 
 SNMPv2c CONFIGURATION (Basic)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/971dd829-9360-4dfa-9f5a-1db52a3ce599/Untitled.png)
+![image](https://github.com/psaumur/CCNA/assets/106411237/caf4624e-9ca2-4c8e-82fe-53db2499a38f)
 
 WHAT HAPPENS WITH R1’s G0/1 INTERFACE GOES DOWN?
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/ba3a1a05-6235-433d-aef3-2555f7b53b82/Untitled.png)
+![image](https://github.com/psaumur/CCNA/assets/106411237/96341ab3-1ed3-4dd4-903c-fa57ab1f83be)
 
 NOTE:
 
@@ -132,17 +134,13 @@ SNMP SUMMARY
     
 - Variables, such as Interface Status, Temperature, Traffic Load, Hostname, etc are STORED in the MANAGMENT INFORMATION BASE (MIB) and identified using Object IDs (OIDs)
 
-<aside>
-💡 Main SNMP versions : SNMPv1, SNMPv2c, SNMPv3
+Main SNMP versions : SNMPv1, SNMPv2c, SNMPv3
 
-</aside>
-
-<aside>
-💡 SNMP MESSAGES : 
+```
+SNMP MESSAGES : 
 * Get / GetNext / GetBulk
 * Set
 * Trap
 * Inform
 * Response
-
-</aside>
+```
