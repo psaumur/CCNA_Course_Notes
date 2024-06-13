@@ -86,9 +86,10 @@ SNMP MESSAGES
 2) SMNP WRITE
 
 
+
 3) SNMP NOTIFICATION
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/4cdde10f-02e3-465a-88ff-7f4c39b1e84f/3de9f6a0-91ab-46a8-93a4-37afbe9a8d5d/Untitled.png)
+
 
 SNMP AGENT listens for MESSAGES on UDP Port 161
 
