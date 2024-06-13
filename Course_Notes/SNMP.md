@@ -6,14 +6,11 @@ SNMP OVERVIEW
 
 These RFCs make up SNMPv1 (Do not need to memorize)
 
-<aside>
-💡 RFC 1065 - Structure and identification of management information for TCP/IP based internets
-
+```
+RFC 1065 - Structure and identification of management information for TCP/IP based internets
 RFC 1066 - Management information base for network management of TCP/IP based internets
-
 RFC 1067 - A simple network management protocol
-
-</aside>
+```
 
 - Don’t let the ‘Simple’ in the name fool you !
 - SNMP can be used to monitor the STATUS of DEVICES, make CONFIGURATION CHANGES, etc.
