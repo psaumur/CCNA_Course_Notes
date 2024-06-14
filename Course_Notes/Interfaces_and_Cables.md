@@ -4,23 +4,24 @@ SWITCHES provide many PORTS for connectivity (usually 24)
 
 These PORTS tend to be RJ-45 (Registered Jack) ports.
 
-# What is Ethernet?
+---
+
+WHAT IS ETHERNET?
 
 - Ethernet is a collection of network protocols/standards.
 
-# Why do we need network protocols and standards?
+Why do we need network protocols and standards?
 
 - provide common communication standards over networks.
 - provide common hardware standards to allow connectivity between devices.
 
-#
+
 
 Connections between devices operates at a set speed.
 
 These speeds are measured in "bits per second" (bps)
 
 A bit is a value of "0" or "1".
-
 A byte is 8 bits (0s and 1s)
 
 | Size | # of Bits |
@@ -30,7 +31,7 @@ A byte is 8 bits (0s and 1s)
 | 1 gigabit (Gb) | 1,000,000,000 |
 | 1 terabit (Tb) | 1,000,000,000,000  |
 
-### Ethernet standards are:
+Ethernet standards are:
 
 - Defined in the IEEE 802.3 standard in 1983
 - IEEE = Institute of Electrical and Electronics Engineers
