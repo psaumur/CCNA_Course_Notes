@@ -71,5 +71,9 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 54. [WAN Architectures](https://github.com/psaumur/CCNA/blob/main/Course_Notes/WAN_Architectures.md)
 55. [Virtualization and Cloud - Part1](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Virtualizations_and_Cloud_Part1.md)
 56. [Virtualization (Containers) - Part 2](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Virtualization_Containers.md)
+57. [Virtualization (VRF) - Part3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Virtualization_VRF_Part3.md)
+58. [Wireless Fundamentals](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Fundamentals.md)
+59. [Wireless Architectures](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Architecutres.md)
+60. 
 
 
