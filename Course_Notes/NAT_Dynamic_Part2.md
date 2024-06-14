@@ -1,3 +1,5 @@
+# 45. NAT (DYNAMIC): PART 2
+
 MORE ABOUT STATIC NAT
 
 - STATIC NAT involves statically configuring one-to-one mappings of PRIVATE IP ADDRESSES to PUBLIC IP ADDRESSES
