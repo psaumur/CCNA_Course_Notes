@@ -62,7 +62,9 @@ Most use 8 wires (4 pairs) however ...
 ![image](https://github.com/psaumur/CCNA/assets/106411237/00b27997-a78a-4e81-a878-7f8ab7e3279e)
 
 
-## How do devices communicate via their connections?
+---
+
+How do devices communicate via their connections?
 
 Each ethernet cable has a RJ-45 plug with 8 pins on the ends.
 
@@ -76,7 +78,9 @@ Each ethernet cable has a RJ-45 plug with 8 pins on the ends.
 
 This allows Full-Duplex transmission of data.
 
-## What if a Router / Switch connect?
+---
+
+What if a Router / Switch connect?
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/907259d9-1837-4d53-8f45-a42934fb66f2)
 
@@ -90,7 +94,9 @@ Routers and PCs connect the same way with Switches.
 
 The cable used to connect is called a "Straight-Through" cable.
 
-## What if we want to connect similar devices to each other?
+---
+
+What if we want to connect similar devices to each other?
 
 We CANNOT use a "Straight-Through" cable.
 We MUST use a "Crossover" cable.
@@ -128,7 +134,7 @@ Each wire pair is **bidirectional** so can transmit/receive much faster than 10/
 
 ---
 
-## Fiber-Optic Connections:
+Fiber-Optic Connections:
 
 - Defined in the IEEE 802.3ae standard
 
@@ -136,12 +142,12 @@ SFP Transceiver (Small Form-Factor Pluggable) allows fiber-optic cables to conne
 
 - Have separate cables to transmit / receive.
 
-### 4 parts to a fiber-optic cable.
+4 parts to a fiber-optic cable.
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/70b81cde-265f-413b-815b-3e7184ea0586)
 
 
-### There are TWO types of fiberoptic cable.
+There are TWO types of fiberoptic cable.
 
 Single-Mode:
 
@@ -163,7 +169,9 @@ Multimode:
 - Allows longer cables than UTP but shorter than single-mode
 - Cheaper than single-mode fiber (due to cheaper LED-based SFP transmitter)
 
-### Fiber Optic Standards:
+---
+
+Fiber Optic Standards:
 
 | Speed | Standard | Connection Speed | Mode Support | Max Transmission Distance |
 | --- | --- | --- | --- | --- |
@@ -172,9 +180,11 @@ Multimode:
 | 10GBASE-LR | 802.3ae | 10 Gbps | Single | 10 kilometers |
 | 10GBASE-ER | 802.3ae | 10 Gbps | Single | 30 kilometers |
 
-## UTP vs Fiber-Optic Cabling:
+---
 
-### UTP are:
+UTP vs Fiber-Optic Cabling:
+
+UTP are:
 
 - Lower cost than fiber-optic.
 - Shorter maximum distance than fiber-optic (~100m).
@@ -182,7 +192,7 @@ Multimode:
 - RJ45 ports used with UTP are cheaper than SFP ports.
 - Emit (leak) a faint signal outside of cable, which can be copied (security risk).
 
-### Fiber-Optic:
+Fiber-Optic:
 
 - Higher cost than UTP.
 - Longer maximum distance than UTP.
