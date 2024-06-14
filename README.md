@@ -74,6 +74,12 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 57. [Virtualization (VRF) - Part3](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Virtualization_VRF_Part3.md)
 58. [Wireless Fundamentals](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Fundamentals.md)
 59. [Wireless Architectures](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Architecutres.md)
-60. 
+60. [Wireless Security](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Security.md)
+61. [Wireless Configuration]()
+62. [Introduction to Network Automation]()
+63. [JSON, XML, and YAML]()
+64. [REST APIs]()
+65. [SOFTWARE DEFINED NETWORKING]()
+66. [ANSIBLE, PUPPET, and CHEF]()
 
 
