@@ -14,7 +14,8 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 
 To bulk download these course notes, use ```git clone https://github.com/psaumur/CCNA_Course_Notes.git```
 
-To convert these Markdown format files to PDF, or other friendly format, I recommend [Dillinger.io](https://dillinger.io/)
+For browser based conversion of these .md format files, to PDF format, I recommend the online tool [Dillinger.io](https://dillinger.io/)
+For local conversion of these .md format files, to other friendly formats, I recommend the open source [Calibre](https://calibre-ebook.com/) ** Allows Bulk processing to mobile / iPad **
 
 ---
 
