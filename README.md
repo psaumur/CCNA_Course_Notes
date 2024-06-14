@@ -15,7 +15,7 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 
 # Course Chapter Notes:
 
-Day 1. [Networking Devices](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Network_Devices.md)
+1. [Networking Devices](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Network_Devices.md)
 Day 2. [Interfaces And Cables](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Interfaces_and_Cables.md) 
 Day 3. [OSI Model and TCP/IP Suite](https://github.com/psaumur/CCNA/blob/main/Course_Notes/OSI_Model_TCPSuite.md)
 Day 4. [Intro to the CLI](https://github.com/psaumur/CCNA/blob/main/Course_Notes/intro_to_cli.md)
