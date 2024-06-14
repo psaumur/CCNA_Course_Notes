@@ -11,6 +11,14 @@ I also highly recommend his second set of [older labs](https://www.youtube.com/w
 
 [Jeremy's MEGA Lab](https://www.youtube.com/watch?v=2p7-MluKAgE&list=PLeKkafR2n05G-C6sd19ZMKq7et__aDR1S) encompasses everything you will learn in his CCNA course
 
+
+
+To bulk download the Markdown course notes, use ```git clone https://github.com/psaumur/CCNA_Course_Notes.git```
+
+To convert Markdown to PDF or other friendly format, I recommend [Dillinger.io](https://dillinger.io/)
+
+To view the Markdown files natively without conversion, you can use a reader app like [Okular](https://okular.kde.org/)
+
 ---
 
 # Course Day Chapter Notes:
