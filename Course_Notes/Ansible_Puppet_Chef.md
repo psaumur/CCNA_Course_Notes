@@ -12,6 +12,7 @@ CONFIGURATION DRIFT
         - A standard naming system like (*hostname_yyyymmdd)* might be used.
         - There are flaws to this system, as an engineer might forget to place the new config in the folder after making changes. Which one should be considered the “CORRECT” config?
         - Even if configurations are properly saved like this, it doesn’t guarantee that the configurations actually match the standard
+---
 
 CONFIGURATION PROVISIONING
 
