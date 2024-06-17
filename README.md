@@ -82,7 +82,7 @@ For local conversion of these .md format files, to other friendly formats, I rec
 - Day 56.  [Wireless Architectures](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Architecutres.md)
 - Day 57.  [Wireless Security](https://github.com/psaumur/CCNA/blob/main/Course_Notes/Wireless_Security.md)
 - Day 58.  [Wireless Configuration](https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Wireless_Configuration.md)
-- Day 59.  [Introduction to Network Automation](https://github.com/psaumur/CCNA_Course_Notes/blob/main)
+- Day 59.  [Introduction to Network Automation](Course_Notes/Introduction_to_Network_Automation.md)
 - Day 60.  [JSON, XML, and YAML](https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/JSON_XML_YAML.md)
 - Day 61.  [REST APIs](https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/REST_APIs.md)
 - Day 62.  [SOFTWARE DEFINED NETWORKING](https://github.com/psaumur/CCNA_Course_Notes/blob/main/Course_Notes/Software_Defined_Networking.md)
