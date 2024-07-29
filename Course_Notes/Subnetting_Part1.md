@@ -146,3 +146,65 @@ Next: 10.4.96.0 (Second Block)
 Number of IP Addresses is : 2^(32-CIDR). In this example 2^13 = 8192
 
 Solving for 2nd and 1st Octet is the same as above, keeping in mind the Octet column is USED to check for the Target number of a given address.
+
+---
+Alternative method to "Cheat Sheet"
+
+![image](https://github.com/user-attachments/assets/d1e103b8-142a-44cc-8ab4-f5337268c9de)
+
+1. Find the "magic octet" where a given IP /Prefix lies, from the bit chart shown (boundary digits are inclusive of the octet preceding them)
+2. Count the number of network bits (left to right) in that octet and count the same amount, using the red bit slot chart. This'll be your address group size.
+3. Subtract that number from 256 to find your Subnet Mask number used in the "magic octet" (any octet LEFT of that "magic octet" will be 255, everything RIGHT of that octet will be 0)
+4. Divide whatever IP octet number is in the "magic octet" by the address group size.
+  - If there is a remainder, multiple the whole integer by the address group size - your Base Network Address is that value, with every octet to the right of that as all 0's
+  - If there is NO remainder, the IP number in the "magic octet" IS the Base Network Address is that value, with every octet to the right of that as all 0's
+5. The Base Broadcast Number will be Network Base Number + Group Size - 1 in the "magic octet", every value to the right of that octet will be 255.
+6. Number of subnets is (2 to the power of the number of network bits in the "magic octet". ** 2^8 or 256 is equal to 0 **)
+7. Total Useable Hosts size is (2 to the power of (32 - Prefix Length) -2)
+---
+Example 1:
+```
+154 . 219 . 154 . 180 /20
+
+Third Octet = Magic
+
+Address Group Size = 16 (L/R count of 4)
+256 - 16 = 240 therefore Subnet Mask is 255.255.240.0
+
+Divide 3rd digit / Address Group Size (16)
+154 / 16 = 9 (with remainder)
+9 * 16 = 144 (Base Network #)
+
+Network : 154 . 219 . 144 . 0
+
+Broadcast Base # = 144 + 16 - 1 = 159
+
+Broadcast : 154. 219 . 159 . 255
+
+Subnets = 2^4 network bits = 16
+Total Host Size = (2^(32 - 20))-2 = 4094
+```
+---
+Example 2:
+```
+84 . 75 . 21 .6 /10
+
+Second Octet = Magic
+
+Address Group Size = 64
+256 - 64 = 192
+
+Subnet = 255.192.0.0
+
+75 / 64 = 1 + remainder
+1 * 64 = 64 (Base Network #)
+
+Network : 84.64.0.0
+
+Broadcast Base # = 64 + 64 -1 = 127
+
+Broacast : 84.127.255.255
+
+Subnets : 2^2 = 4 Subnets
+Total Host Size = (2^(32-10))-2 = 4194302
+```
