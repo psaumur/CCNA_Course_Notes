@@ -9,8 +9,9 @@ Networking models categorize and provide a structure for networking protocols an
 ## OSI MODEL
 
 - Open Systems Interconnection Model
+- OPEN MEANS IT IS OPEN FOR ALL NOT DEVELOPEDBY ANY COMPANY
 - Conceptual model that categorizes and standardizes the different functions in a network.
-- Created by the "International Organization for Standardization" (ISO)
+- Created by the "International Organization for Standardization" (ISO) LATE 1970S
 - Functions are divided into 7 "Layers"
 - These layers work together to make the network work.
 
