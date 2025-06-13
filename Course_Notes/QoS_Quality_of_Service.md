@@ -145,9 +145,9 @@ CLASS SELECTOR (CS)
 
 ---
 
-RFC 4954
+RFC 4594
 
-- RFC 4954 was developed with help of Cisco to bring ALL of these VALUES together and STANDARDIZE their use
+- RFC 4594 was developed with help of Cisco to bring ALL of these VALUES together and STANDARDIZE their use
 
 - The RFC offers MANY specific recommendations, but here are a few KEY ones:
     - VOICE TRAFFIC : EF
