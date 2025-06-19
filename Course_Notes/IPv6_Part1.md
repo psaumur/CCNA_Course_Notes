@@ -35,7 +35,7 @@ WHY IPv6?
 
 BASICS OF IPv6
 
-- An IPv6 ADDRESS is **128 bits (16 bits per "group". Groups are separated by ':')**
+- An IPv6 ADDRESS is **128 bits (8 "groups", 16 bits per "group". Groups are separated by ':')**
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/3e6fe314-c87f-4116-bf37-7f3cfd8e17b4)
 
