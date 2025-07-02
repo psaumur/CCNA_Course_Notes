@@ -113,7 +113,7 @@ CSMA/CD = CARRIER SENSE MULTIPLE ACCESS with COLLISION DETECTION.
 
 SWITCHES are more sophisticated than HUBS.
 
-HUBS are Layer 1 Devices - Collisions are common and use CSMA/CD.
+HUBS are Layer 1 Devices - Collisions are common and use Carrier Sense Multiple Access (CSMA)/Collision Detection (CD).
 SWITCHES are Layer 2 Devices - Collisions RARELY occur.
 
 ---
