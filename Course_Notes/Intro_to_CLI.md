@@ -70,7 +70,7 @@ To enter Global Configuration Mode, enter the command, within Privileged EXEC mo
 Router# configure terminal
 Router(config) #		
 
-Router(config) # run 
+Router(config) # do 
 
 Router(config) # no 
 
