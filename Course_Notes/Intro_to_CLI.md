@@ -104,7 +104,7 @@ If you disable 'service password-encryption'
 
 Router(config)# enable secret (password)
 
-// enable secret will ALWAYS be encrypted (at level 5)
+// enable secret will ALWAYS be encrypted (by MD5 "Message Digest Algorithm 5" cryptographic hash function. denoted in the config files as 5)
 
 ---
 
