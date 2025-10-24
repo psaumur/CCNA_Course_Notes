@@ -65,14 +65,13 @@ USE the TAB key to complete partially entered commands IF the command exists.
 
 To enter Global Configuration Mode, enter the command, within Privileged EXEC mode
 
- 'configure terminal' (or 'conf t')
+'configure terminal' (or 'conf t')
 
 Router# configure terminal
+
+Note the prompt change:
+
 Router(config) #		
-
-Router(config) # run 
-
-Router(config) # no 
 
 Type 'exit' to drop back into 'Privileged EXEC' mode.
 
