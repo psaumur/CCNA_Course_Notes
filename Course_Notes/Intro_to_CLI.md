@@ -199,10 +199,14 @@ In this instance, disabling “service password-encryption”:
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/4c1bdf58-7de6-4074-8189-1573a174474c)
 
-**CORRECTION (last command in the above photo): It should be "Router(config)# do", NOT "Router(config)# run".  "run" is the Juniper version, "do" is used on Cisco devices to let you execute privileged-exec level commands from global-config mode.
+**CORRECTION (last command in the above photo):
+  - It should be "Router(config)# do", NOT "Router(config)# run".
+  - "run" is the Juniper version, "do" is used on Cisco devices to let you execute privileged-exec level commands from global-config mode.
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/e7771e65-5ed5-406d-9751-76520713210c)
 
-**CORRECTION (last command in the above photo): It should be 'Router# show running-config' and 'Router# show startup-config', etc. They should be entered in privileged exec mode, NOT global config mode. 
+**CORRECTION (last command in the above photo):
+  - It should be 'Router# show running-config' and 'Router# show startup-config', etc.
+  - They should be entered in privileged exec mode, NOT global config mode. 
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/5f7357d4-f44b-4a61-a24c-86f3368f30f7)
