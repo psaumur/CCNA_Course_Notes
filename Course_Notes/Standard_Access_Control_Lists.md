@@ -20,7 +20,7 @@ HOW ACLs WORK
 💡 REQUIREMENTS:
 
 - Hosts in 192.168.1.0/24 should have ACCESS to the 10.0.1.0/24 NETWORK
-- Hosts in 192.168.2.0/24 should not have ACCESS to the 10.0.10/24 NETWORK
+- Hosts in 192.168.2.0/24 should not have ACCESS to the 10.0.1.0/24 NETWORK
 </aside>
 
 ACLs are configured GLOBALLY on the ROUTER (Global Config Mode)
