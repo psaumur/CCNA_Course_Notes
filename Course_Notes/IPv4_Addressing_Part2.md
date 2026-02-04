@@ -194,7 +194,7 @@ More 'show' CLI Commands
 
 'show interfaces description'
 
-- Allows you to add descriptions for interfaces.
+- show description for interface.
 
 Example:
 
