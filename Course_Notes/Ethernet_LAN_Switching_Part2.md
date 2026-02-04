@@ -34,7 +34,7 @@ IF the PAYLOAD is LESS than 46 BYTES then PADDING BYTES are added (padding bytes
 
 ---
 
-When a PC sends a packet to a device with an unknown IP address, it uses an ARP Request.
+When a PC wants to send a packet to a device, with an IP address, it first sends an ARP Request to learn its MAC address.
 
 ![image](https://github.com/psaumur/CCNA/assets/106411237/e2d0e5d2-7c98-4671-b356-903132fd7525)
 
