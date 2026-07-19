@@ -1,7 +1,7 @@
 # 1. NETWORKING DEVICES
 
 ## What is a network?
-
+## change
 A computer network is a digital telecommunications network allows NODES to share RESOURCES.
 
 A CLIENT is a device that accesses a service made available by a SERVER.
